@@ -1,0 +1,64 @@
+.elementor-kit-20{--e-global-color-primary:#060318;--e-global-color-secondary:#C1C1C1;--e-global-color-text:#2B2B2B;--e-global-color-accent:#3E37C1;--e-global-color-fee1b22:#001D21;--e-global-color-b14d937:#CDCBFF;--e-global-color-1bec433:#353535;--e-global-color-1aad3a2:#FFF9EA;--e-global-color-7ac57ef:#001D21;--e-global-color-2807ba4:#FFDA79;--e-global-color-9ec7cd0:#001D21CC;--e-global-color-063b820:#FFFAEA;--e-global-color-793b874:#FAFAFA;--e-global-color-77129bd:#E7E7E7;--e-global-color-7f37803:#EBEAFE;--e-global-color-43a3115:#FFFFFF;--e-global-color-6fc73da:#E4E4E4;--e-global-color-068a9fb:#EEEDFE8A;--e-global-color-a5e1659:#EBEAFED9;--e-global-color-f1dddfb:#F6F5FF;--e-global-color-9a4e2e0:#EEEDFE;--e-global-color-5f9269b:#FAFAFA1A;--e-global-color-1014165:#E4E4E4;--e-global-color-e4f1902:#F2F2F2;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-e201b2a-font-family:"Inter";--e-global-typography-e201b2a-font-size:2.778vw;--e-global-typography-e201b2a-font-weight:600;--e-global-typography-e201b2a-line-height:150%;--e-global-typography-7d8d9d6-font-family:"Inter";--e-global-typography-7d8d9d6-font-size:1.25vw;--e-global-typography-7d8d9d6-line-height:160%;--e-global-typography-7d8d9d6-letter-spacing:0.012vw;--e-global-typography-5654188-font-family:"Inter";--e-global-typography-5654188-font-size:2.222vw;--e-global-typography-5654188-font-weight:600;--e-global-typography-5654188-line-height:150%;--e-global-typography-301f63b-font-family:"Inter";--e-global-typography-301f63b-font-size:1.389vw;--e-global-typography-301f63b-font-weight:400;--e-global-typography-301f63b-line-height:180%;--e-global-typography-0207996-font-family:"Inter";--e-global-typography-0207996-font-size:1.389vw;--e-global-typography-0207996-font-weight:400;--e-global-typography-0207996-text-transform:uppercase;--e-global-typography-0207996-line-height:165%;--e-global-typography-5f6474d-font-family:"Inter";--e-global-typography-5f6474d-font-size:1.389vw;--e-global-typography-5f6474d-font-weight:700;--e-global-typography-5f6474d-text-transform:capitalize;--e-global-typography-4b8e6a4-font-family:"Inter";--e-global-typography-4b8e6a4-font-size:1.111vw;--e-global-typography-4b8e6a4-font-weight:400;--e-global-typography-4b8e6a4-line-height:150%;--e-global-typography-487ec65-font-family:"Inter";--e-global-typography-487ec65-font-size:1.25vw;--e-global-typography-487ec65-font-weight:400;--e-global-typography-487ec65-letter-spacing:0.012vw;--e-global-typography-7635d7a-font-family:"Inter";--e-global-typography-7635d7a-font-size:4.167vw;--e-global-typography-7635d7a-font-weight:700;--e-global-typography-7635d7a-line-height:0.042vw;--e-global-typography-da48222-font-family:"Inter";--e-global-typography-da48222-font-size:1.25vw;--e-global-typography-da48222-font-weight:500;--e-global-typography-da48222-letter-spacing:0.012vw;--e-global-typography-d4f7f94-font-family:"Inter";--e-global-typography-d4f7f94-font-size:0.833vw;--e-global-typography-d4f7f94-font-weight:500;--e-global-typography-d4f7f94-line-height:133%;--e-global-typography-08a1695-font-family:"Inter";--e-global-typography-08a1695-font-size:0.888vw;--e-global-typography-08a1695-font-weight:500;--e-global-typography-08a1695-text-transform:uppercase;--e-global-typography-8538868-font-family:"Inter";--e-global-typography-8538868-font-size:1.667vw;--e-global-typography-8538868-font-weight:600;--e-global-typography-b863b8d-font-family:"Inter";--e-global-typography-b863b8d-font-size:2.778vw;--e-global-typography-b863b8d-font-weight:600;--e-global-typography-b863b8d-line-height:150%;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-20 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-20{--e-global-typography-e201b2a-font-size:5.556vw;--e-global-typography-7d8d9d6-font-size:3.611vw;--e-global-typography-5654188-font-size:4.444vw;--e-global-typography-301f63b-font-size:3.333vw;--e-global-typography-0207996-font-size:3.889vw;--e-global-typography-5f6474d-font-size:4.444vw;--e-global-typography-4b8e6a4-font-size:3.611vw;--e-global-typography-487ec65-font-size:3.333vw;--e-global-typography-7635d7a-font-size:8.889vw;--e-global-typography-7635d7a-line-height:normal;--e-global-typography-da48222-font-size:2.778vw;--e-global-typography-da48222-line-height:normal;--e-global-typography-d4f7f94-font-size:3.333vw;--e-global-typography-08a1695-font-size:2.778vw;--e-global-typography-08a1695-line-height:normal;--e-global-typography-8538868-font-size:4.444vw;--e-global-typography-b863b8d-font-size:5.556vw;--e-global-typography-b863b8d-line-height:150%;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 100;
+	font-display: swap;
+	src: url('../../2023/10/Inter-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 200;
+	font-display: swap;
+	src: url('../../2023/10/Inter-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url('../../2023/10/Inter-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../../2023/10/Inter-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url('../../2023/10/Inter-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('../../2023/10/Inter-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../../2023/10/Inter-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-display: swap;
+	src: url('../../2023/10/Inter-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 900;
+	font-display: swap;
+	src: url('../../2023/10/Inter-Black.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
